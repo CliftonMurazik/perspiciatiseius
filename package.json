@@ -1,0 +1,37 @@
+{
+  "name": "perspiciatiseius",
+  "description": "Resolve tsconfig baseUrl and paths imports with Parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "source": "src/index.js",
+  "author": "MyraWehner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CliftonMurazik/perspiciatiseius.git"
+  },
+  "keywords": [
+    "parcel",
+    "resolver",
+    "nostrum",
+    "tsconfig",
+    "typescript",
+    "facere",
+    "voluptas"
+  ],
+  "files": [
+    "index.js",
+    "index.js.map",
+    "package.json",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=12"
+  },
+  "dependencies": {
+    "@parcel/plugin": "^2.0.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
